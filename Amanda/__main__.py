@@ -63,8 +63,8 @@ from Amanda.modules.helper_funcs.misc import paginate_modules
 from Amanda.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-Hello there, I'm 𝓐𝓶𝓪𝓷𝓭𝓪
-I'm a Powerful group manager bot With Cool Modules. Made by [𝒯𝒽𝒶𝓇𝓊𝓀 ℛℯ𝓃𝓊𝒿𝒶• 🇱🇰](t.me/TharukRenuja)
+Hello there, I'm Rɛм ҳ мα𝗇αgɛ💥
+I'm a Powerful group manager bot With Cool Modules. Made by [ jashan bal ](t.me/jashan_bal69x)
 Hit /help to find my list of available commands
  
 """
@@ -72,15 +72,15 @@ Hit /help to find my list of available commands
 buttons = [
     [
         InlineKeyboardButton(
-            text="📢Updates Channel", url="https://t.me/SLBotsOfficial"
+            text="📢Updates Channel", url="https://t.me/remxowner"
         ),
         InlineKeyboardButton(
-            text="👥 Support Group", url="https://t.me/trtechguide"
+            text="👥 Support Group", url="https://t.me/xtromxsupport"
         ),
     ],
     [
         InlineKeyboardButton(
-            text="📜Source", url="https://github.com/TR-TECH-GUIDE/Amanda"
+            text="🖇chat group ", url="https://t.me/MATRIX_CAGE"
         ),
         InlineKeyboardButton(
             text="❔ Help", url="http://t.me/TheAmandabot?start=help"
@@ -88,13 +88,13 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="➕ Add Amanda to your group ➕",
+            text="➕ Add rem to your group ➕",
             url="t.me/TheAmandabot?startgroup=true",
         ),
     ],
 ]
 
-Amanda_IMG = "https://telegra.ph/file/04d73369440abc48ab3ce.png"
+Amanda_IMG = "https://telegra.ph/file/0ecc36bf5e0ba468e8a23.jpg"
 
 HELP_STRINGS = f"""
 *Main Commands :* [🤖](https://telegra.ph/file/04d73369440abc48ab3ce.png)
